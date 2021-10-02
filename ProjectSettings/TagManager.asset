@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneLoad
+  - Obstacle
+  - HUD
+  - Enemy
+  - DropOrb
+  - CheckPoint
+  - TextPopup
+  - FxTemporaire
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Enemy Projectile
+  - DropOrb
+  - Obstacle
+  - Platform
+  - Push
+  - Wall
+  - DamageObstacle
+  - Post-Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

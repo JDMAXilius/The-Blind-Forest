@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1c9ad16d620454c49999214138dd2fc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - parent: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - FlotingTextPrefab: {fileID: 3593031398128768424, guid: 19127c62238d4f24a8e6c55a42c9613e, type: 3}
+  - DropOrb: {fileID: 1006786891238142334, guid: 3ad567db743bf9e43be34f1650883583, type: 3}
+  - ManaOrb: {fileID: 5592811617706580311, guid: 75dea658b110e0b4a8069cc3e032cad4, type: 3}
+  - particuleExplode: {fileID: 4166616152187138683, guid: 98590ebb66367a347b0317b73010d806, type: 3}
+  - patrolScript: {instanceID: 0}
+  - turretScript: {instanceID: 0}
+  - flyScript: {instanceID: 0}
+  - slamScript: {instanceID: 0}
+  - shootScript: {instanceID: 0}
+  - sfxAudioSource: {instanceID: 0}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
